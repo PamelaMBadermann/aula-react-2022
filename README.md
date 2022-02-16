@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project is being created as content lesson of the Frontend-II module by Growdev.
+This project is being created as content lesson of the Frontend-II module by <a href="https://www.growdev.com.br/">Growdev</a>.
 
 ## Learn More about Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
